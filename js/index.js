@@ -27,8 +27,8 @@ console.log(nameCap)
 // 3.2
 
 let nameRev = ""
-for(i=hacker1.length - 1; i>=0; i--){
-    nameRev += `${hacker1[i]}`
+for(i=hacker2.length - 1; i>=0; i--){
+    nameRev += `${hacker2[i]}`
 }
 console.log(nameRev)
 
